@@ -22,4 +22,4 @@ CREATE TABLE budget (
     limit_amount DOUBLE,
     FOREIGN KEY (user_id) REFERENCES users(user_id)
 );
-
+--testing
